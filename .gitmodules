@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "fossilbrush"]
 	path = fossilbrush
-	url = https://github.com/cran/fossilbrush
+	url = https://github.com/jf15558/fossilbrush
